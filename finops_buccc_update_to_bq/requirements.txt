@@ -1,0 +1,9 @@
+# External library used
+pandas==2.2.3
+db-dtypes==1.2.0
+# google related
+functions_framework==3.8.2
+google-auth==2.37.0
+google-cloud-storage==1.44.0
+google-cloud-bigquery==3.25.0
+google-api-python-client==2.134.0

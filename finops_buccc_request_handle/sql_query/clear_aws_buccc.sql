@@ -1,0 +1,2 @@
+DELETE FROM `[gcp_project_name].Cloud_project_bu_ccc.AWS_BU_CCC` -- the BU CCC table for a cloud is selected
+WHERE 1=1 --delete need condition to be executed, so a dummy condition in set to clear all rows in a table.
